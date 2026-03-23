@@ -1,4 +1,10 @@
-# Byte-compiled / optimized / DLL files
+.venv/
+dataset/
+runs/
+__pycache__/
+
+
+*.cache# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
