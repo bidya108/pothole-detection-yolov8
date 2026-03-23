@@ -27,8 +27,6 @@ requirements.txt
 pip install -r requirements.txt
 ▶️ Run Prediction
 python predict.py
-📸 Results
-<img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/e3d9237a-c693-4f28-97ac-82f6049b343c" />
 
 💡 Future Improvements
 Real-time video detection
